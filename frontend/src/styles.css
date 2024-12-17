@@ -1,0 +1,29 @@
+.app {
+    text-align: center;
+    margin: 2rem;
+  }
+  
+  .teacher-view, .student-view {
+    margin-top: 2rem;
+  }
+  
+  input {
+    margin: 0.5rem;
+    padding: 0.5rem;
+    width: 20rem;
+  }
+  
+  button {
+    margin: 0.5rem;
+    padding: 0.5rem 1rem;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
